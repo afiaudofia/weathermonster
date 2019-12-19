@@ -17,32 +17,27 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-````
-$ yarn test
+`$ yarn test `
 
 // to view code coverage
 
-$ yarn test --coverage --watchAll=false
-```
+`$ yarn test --coverage --watchAll=false`
+
+### Setup
+
+To setup the application, clone the application 
+
+ clone the repo
+
+ `$ cd weathermonster `
+
+ // install the required packages
+` $ yarn install `
 
 ### `yarn build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-### Setup the application
-
-To setup the application, clone the application 
-```
- $ git clone ""
-
- // Navigate into the directory.
-
- $ cd weathermonster
-
- // install the required packages
- $ yarn install
-```
 
 
 
