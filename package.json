@@ -19,7 +19,7 @@
     "final-form": "^4.18.6",
     "immer": "^5.0.2",
     "lodash-es": "^4.17.15",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
